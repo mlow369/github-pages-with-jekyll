@@ -1,3 +1,3 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+<B>This is a test page for GitHub tranining purposes only.</B>
